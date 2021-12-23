@@ -77,10 +77,10 @@ con toda la base de datos con cambios atómicos en nuestro proyecto.
 
 Recuerda que Git está optimizado para trabajar en equipo, por lo tanto, debemos darle un poco de información sobre nosotros. No debemos hacerlo todas las veces que ejecutamos un comando, basta con ejecutar solo una vez los siguientes comandos con tu información:
 
-    Git config --global user.name "tu nombre"
-    Git config --global user.email "tu@email.com"
+     --global user.name "tu nombre"
+     --global user.email "tu@email.com"
 
-Existen muchas otras configuraciones de Git que puedes encontrar en el comando git config --list (o solo git config para ver una explicación más detallada)
+Existen muchas otras configuraciones de Git que puedes encontrar en el comando  --list (o solo  para ver una explicación más detallada)
 
 # Analizar cambios en los archivos de tu proyecto con Git 📈📉📊
 
